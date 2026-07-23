@@ -40,14 +40,14 @@ Monthly subscription revenue was plotted from January 2024 through the latest av
 
 ## 3. CAC vs. LTV: How Long to Break Even?
 
-Cumulative average revenue per customer (LTV) was tracked by tenure month for the 2024 and 2025 signup cohorts, and compared against the average customer acquisition cost (CAC) of **$178.90**.
+Cumulative total LTV (summed revenue across every customer in the cohort) was tracked by tenure month for the 2024 and 2025 signup cohorts, and compared against each cohort's **Total CAC** (summed acquisition cost across all customers in that cohort). A cohort-year filter allows switching between the 2024 and 2025 views.
 
-| Cohort | Break-even Tenure Month | Cumulative LTV at Break-even |
-|---|---|---|
-| 2024 | Month 5 | $200.76 |
-| 2025 | Month 6 | $186.36 |
+| Cohort | Total CAC | Break-even Tenure Month | Cumulative LTV at Break-even |
+|---|---|---|---|
+| 2024 | $501,536.80 | Month 4 | $505,199 |
+| 2025 | $1,162,459.11 | Month 6 | $1,208,333 |
 
-**Key finding:** The 2024 cohort recovered its acquisition cost one month faster than the 2025 cohort (month 5 vs. month 6).
+**Key finding:** The 2024 cohort recovered its total acquisition cost two months faster than the 2025 cohort (month 4 vs. month 6).
 
 ---
 
@@ -55,6 +55,6 @@ Cumulative average revenue per customer (LTV) was tracked by tenure month for th
 
 FitnessHub's subscription business is growing quickly — revenue has climbed steadily from roughly $6K to $183K per month over the past two years, and is forecasted to reach approximately **$2.28M** over the next 12 months. However, growth alone does not guarantee sustainability.
 
-The most pressing concern is timing: customers most commonly cancel around **month 3** of their subscription, but it takes until **month 5–6** for a cohort to fully recover its acquisition cost. This means a meaningful share of customers are likely churning *before* they become profitable, directly undermining the payback on acquisition spend. Compounding this, the 2025 cohort is taking a full month longer to break even than the 2024 cohort, suggesting acquisition efficiency may be softening — whether due to rising CAC, a shift in acquisition channel mix, or slower early engagement among newer customers.
+The most pressing concern is timing: customers most commonly cancel around **month 3** of their subscription, but it takes until **month 4–6** for a cohort to fully recover its acquisition cost. This means a meaningful share of customers are likely churning *before* they become profitable, directly undermining the payback on acquisition spend. Compounding this, the 2025 cohort is taking two months longer to break even than the 2024 cohort (month 6 vs. month 4), suggesting acquisition efficiency has softened as the company scaled — whether due to a larger, more expensive acquisition mix, or slower early engagement among newer customers.
 
-**Recommendation:** FitnessHub's near-term revenue trajectory is strong, but the gap between the month-3 churn cliff and the month-5/6 break-even point represents real risk to the growth strategy's sustainability. Leadership should prioritize retention interventions in the first 2–3 months of the customer lifecycle, and investigate why the 2025 cohort's acquisition cost recovery has slowed relative to 2024, before continuing to scale acquisition spend at the current rate.
+**Recommendation:** FitnessHub's near-term revenue trajectory is strong, but the gap between the month-3 churn cliff and the month 4–6 break-even point represents real risk to the growth strategy's sustainability. Leadership should prioritize retention interventions in the first 2–3 months of the customer lifecycle, and investigate why the 2025 cohort's acquisition cost recovery has slowed relative to 2024, before continuing to scale acquisition spend at the current rate.
